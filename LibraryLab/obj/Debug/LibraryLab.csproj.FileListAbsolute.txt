@@ -1,0 +1,32 @@
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\bin\Debug\LibraryLab.exe.config
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\bin\Debug\LibraryLab.exe
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\bin\Debug\LibraryLab.pdb
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\obj\Debug\LibraryLab.Properties.Resources.resources
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\obj\Debug\LibraryLab.csproj.GenerateResource.Cache
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\obj\Debug\LibraryLab.exe
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\obj\Debug\LibraryLab.pdb
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\obj\Debug\LibraryLab.frmBooks.resources
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\obj\Debug\LibraryLab.frmEditBook.resources
+D:\GoogleDrive\Cources2023\ТП\Examples\LibraryLab\LibraryLab\obj\Debug\LibraryLab.csprojResolveAssemblyReference.cache
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\bin\Debug\LibraryLab.exe.config
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\bin\Debug\LibraryLab.exe
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\bin\Debug\LibraryLab.pdb
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\obj\Debug\LibraryLab.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\obj\Debug\LibraryLab.frmBooks.resources
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\obj\Debug\LibraryLab.frmEditBook.resources
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\obj\Debug\LibraryLab.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\obj\Debug\LibraryLab.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\obj\Debug\LibraryLab.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\obj\Debug\LibraryLab.exe
+C:\Users\Анастасия\Desktop\LibraryLab\LibraryLab\obj\Debug\LibraryLab.pdb
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\bin\Debug\LibraryLab.exe.config
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\bin\Debug\LibraryLab.exe
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\bin\Debug\LibraryLab.pdb
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\obj\Debug\LibraryLab.csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\obj\Debug\LibraryLab.frmBooks.resources
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\obj\Debug\LibraryLab.frmEditBook.resources
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\obj\Debug\LibraryLab.Properties.Resources.resources
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\obj\Debug\LibraryLab.csproj.GenerateResource.cache
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\obj\Debug\LibraryLab.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\obj\Debug\LibraryLab.exe
+C:\Users\Анастасия\Desktop\Учёба\Проекты шарп\LibraryLab\LibraryLab\obj\Debug\LibraryLab.pdb
